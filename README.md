@@ -37,10 +37,10 @@
 
 ### 🧠 Certificações
 - IBM Data Science Professional Certificate (Coursera)
-  - <a href="https://www.coursera.org/learn/what-is-datascience" text-decoration="none">What is Data Science?</a>
-  - <a href="www.coursera.org/learn/open-source-tools-for-data-science" text-decoration="none">Tools for Data Science</a>
-  - <a href="www.coursera.org/learn/data-science-methodology" text-decoration="none">Data Science Methodology</a>
-  - <a href="www.coursera.org/learn/python-for-applied-data-science-ai" text-decoration="none">Python for Data Science, AI & Development</a>
+  - <a href="https://www.coursera.org/learn/what-is-datascience" style="text-decoration: none;">What is Data Science?</a>
+  - <a href="www.coursera.org/learn/open-source-tools-for-data-science" style="text-decoration: none;">Tools for Data Science</a>
+  - <a href="www.coursera.org/learn/data-science-methodology" style="text-decoration: none;">Data Science Methodology</a>
+  - <a href="www.coursera.org/learn/python-for-applied-data-science-ai" style="text-decoration: none;">Python for Data Science, AI & Development</a>
 - Power BI para BI e Data Science – Data Science Academy
 - 
 ---
