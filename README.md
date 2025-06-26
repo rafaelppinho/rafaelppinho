@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Rafael Pinho 👋</h1>
+![image](https://github.com/user-attachments/assets/6d7f1276-bd75-4de6-b3f6-f8f6e0d6fb51)<h1 align="center">Olá, eu sou o Rafael Pinho 👋</h1>
 
 <p align="center">
   <b>Cientista de Dados em Formação | Técnico em TI | Estudante de Ciência da Computação</b>
@@ -18,11 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="25"/>
+  <img src="https://img.icons8.com/color/512/power-bi.png" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" height="25"/>
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="25"/>
+  <img src="https://vvcestudio.com.br/assetsv5/img/codigo/logonumpy.png" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="25"/>
 </p>
 
 ---
