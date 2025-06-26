@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  🌱 “Aprendizado contínuo é o melhor investimento em si mesmo.”
+    “Aprendizado contínuo é o melhor investimento em si mesmo.”
 </p>
