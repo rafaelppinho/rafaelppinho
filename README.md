@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="mailto:rafaelppinho.ti@gmail.com"><img src="https://img.icons8.com/fluent/512/gmail-new.png" height="40"/></a>
-  <a href="https://www.linkedin.com/in/rafaelppinho/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="60"/></a>
+  <a href="https://www.linkedin.com/in/rafaelppinho/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="40"/></a>
 </p>
 
 ---
