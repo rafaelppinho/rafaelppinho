@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d7f1276-bd75-4de6-b3f6-f8f6e0d6fb51)<h1 align="center">Olá, eu sou o Rafael Pinho 👋</h1>
+<h1 align="center">Olá, eu sou o Rafael Pinho 👋</h1>
 
 <p align="center">
   <b>Cientista de Dados em Formação | Técnico em TI | Estudante de Ciência da Computação</b>
