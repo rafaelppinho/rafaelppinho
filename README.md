@@ -42,7 +42,6 @@
   - <a href="www.coursera.org/learn/data-science-methodology" style="text-decoration: none;">Data Science Methodology</a>
   - <a href="www.coursera.org/learn/python-for-applied-data-science-ai" style="text-decoration: none;">Python for Data Science, AI & Development</a>
 - Power BI para BI e Data Science – Data Science Academy
-- 
 ---
 
 <p align="center">
