@@ -36,12 +36,12 @@
 ---
 
 ### 🧠 Certificações
-- IBM Data Science Professional Certificate (Coursera)
+- IBM Data Science Professional Certificate - Coursera (cursando)
   - <a href="https://www.credly.com/badges/729ebca0-4e31-43fb-a11b-aa60e894e937/linked_in_profile">Data Science Orientation</a>
   - <a href="https://www.credly.com/badges/d430656d-6378-4063-8f52-75e3858b3eec/linked_in_profile">Tools for Data Science V2</a>
   - <a href="https://www.credly.com/badges/73e0a72b-8e70-431a-bb2f-0e03d8beb4f4/linked_in_profile">Data Science Methodology</a>
   - <a href="https://www.credly.com/badges/8ad2ae3e-582c-460a-a78e-f96d5946df88/linked_in_profile">Python for Data Science and AI</a>
-- Power BI para BI e Data Science – Data Science Academy
+- Power BI para BI e Data Science – Data Science Academy (cursando)
 ---
 
 <p align="center">
