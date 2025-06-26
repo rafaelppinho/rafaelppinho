@@ -18,11 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://img.icons8.com/color/512/power-bi.png" height="25"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" height="25"/>
-  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="25"/>
-  <img src="https://vvcestudio.com.br/assetsv5/img/codigo/logonumpy.png" height="25"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="25"/>
+  <img src="https://img.icons8.com/color/512/power-bi.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40"/>
+  <img src="https://vvcestudio.com.br/assetsv5/img/codigo/logonumpy.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40"/>
 </p>
 
 ---
