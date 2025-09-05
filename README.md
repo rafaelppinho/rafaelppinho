@@ -41,9 +41,8 @@
   - <a href="https://www.credly.com/badges/d430656d-6378-4063-8f52-75e3858b3eec/linked_in_profile">Tools for Data Science V2</a>
   - <a href="https://www.credly.com/badges/73e0a72b-8e70-431a-bb2f-0e03d8beb4f4/linked_in_profile">Data Science Methodology</a>
   - <a href="https://www.credly.com/badges/8ad2ae3e-582c-460a-a78e-f96d5946df88/linked_in_profile">Python for Data Science and AI</a>
+  - <a href="https://www.credly.com/badges/4ae5377f-d4ee-45b8-8d20-2ced1745ffeb/linked_in_profile">Python Project for Data Science</a>
+  - <a href="https://www.credly.com/badges/65993c48-0584-4ab0-b8fb-5bd0ef0ef29d/linked_in_profile">Databases and SQL for Data Science</a>
 - Power BI para BI e Data Science – Data Science Academy (cursando)
 ---
 
-<p align="center">
-    “Aprendizado contínuo é o melhor investimento em si mesmo.”
-</p>
